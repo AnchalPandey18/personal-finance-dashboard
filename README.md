@@ -53,7 +53,7 @@ src
 
 Clone the repository
 
-git clone https://github.com/yourusername/personal-finance-dashboard.git
+git clone https://github.com/AnchalPandey18/personal-finance-dashboard.git
 
 Go to project folder
 
